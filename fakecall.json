@@ -1,0 +1,62 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "70d147cdbdd2b9e5",
+            "max_int": "4c2b71d4038b576c",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Planeta Das Gêmeas",
+            "photo": "https://i.postimg.cc/Qth3NhGx/b1ea139926ccb03af57a29d5b4c8bf85.jpg",
+            "voice": "https://ringy9.github.io/Planeta-das-G-meas/voice_2.mp3",
+            "video": "https://ringy9.github.io/Planeta-das-G-meas/hero_video.mp4",
+            "stories": [
+            "https://i.postimg.cc/nLvxtMWP/1296ddf87de12d5e6b2fec638de989a0.jpg",
+"https://i.postimg.cc/Dw4FBxPF/26df6282eac7259f5fc5221a7a4bf822.jpg",
+"https://i.postimg.cc/bvXPM1mn/38b19a7b9dbf78e8d89eb4cca13e972a.jpg",
+"https://i.postimg.cc/wxF6vyBK/5571222981851aa091503b2298df23cc.jpg",
+"https://i.postimg.cc/tCYH4BfP/74e9f9fb158e9c1d76eaeb66b4de4815.jpg",
+"https://i.postimg.cc/xT4nvwHt/85c2467b4ddc8c667b90e84fcd758fe1.jpg",
+"https://i.postimg.cc/pr0x17SV/8a74ca6ee3e59819bc8171d2f33fa831.jpg",
+"https://i.postimg.cc/xjs2Qwsn/a54b7ae0ab973e29c34e79f2fb9606cb.jpg",
+"https://i.postimg.cc/9FMcqm4D/ac470ec496ff80219758dbc8de353253.jpg",
+"https://i.postimg.cc/Qth3NhGx/b1ea139926ccb03af57a29d5b4c8bf85.jpg",
+"https://i.postimg.cc/C17VzXSC/b2c5b8c6e9a9d91bf4b53353dbcfd22c.jpg",
+"https://i.postimg.cc/NF0vTDj3/c1c7051c4ae4aa4ebf68db60932cf754.jpg",
+"https://i.postimg.cc/90N5B94r/d6b3d8ffd8f90e5fb1afcf1e9c68d13c.jpg",
+"https://i.postimg.cc/KvwhknSW/d8e87014a1af708301e48ef7232d3e61.jpg",
+"https://i.postimg.cc/RZt5cNvZ/f2d3fb612c0a4403629fbae332708c93.jpg",
+"https://i.postimg.cc/9fj31Cft/Mystic-Glow-by-Planeta-das-Gemeas.png",
+"https://i.postimg.cc/3wjscV4M/screen-1.webp"
+            ],
+            "wallpapers": [
+              "https://i.postimg.cc/nLvxtMWP/1296ddf87de12d5e6b2fec638de989a0.jpg",
+"https://i.postimg.cc/Dw4FBxPF/26df6282eac7259f5fc5221a7a4bf822.jpg",
+"https://i.postimg.cc/bvXPM1mn/38b19a7b9dbf78e8d89eb4cca13e972a.jpg",
+"https://i.postimg.cc/wxF6vyBK/5571222981851aa091503b2298df23cc.jpg",
+"https://i.postimg.cc/tCYH4BfP/74e9f9fb158e9c1d76eaeb66b4de4815.jpg",
+"https://i.postimg.cc/xT4nvwHt/85c2467b4ddc8c667b90e84fcd758fe1.jpg",
+"https://i.postimg.cc/pr0x17SV/8a74ca6ee3e59819bc8171d2f33fa831.jpg",
+"https://i.postimg.cc/xjs2Qwsn/a54b7ae0ab973e29c34e79f2fb9606cb.jpg",
+"https://i.postimg.cc/9FMcqm4D/ac470ec496ff80219758dbc8de353253.jpg",
+"https://i.postimg.cc/Qth3NhGx/b1ea139926ccb03af57a29d5b4c8bf85.jpg",
+"https://i.postimg.cc/C17VzXSC/b2c5b8c6e9a9d91bf4b53353dbcfd22c.jpg",
+"https://i.postimg.cc/NF0vTDj3/c1c7051c4ae4aa4ebf68db60932cf754.jpg",
+"https://i.postimg.cc/90N5B94r/d6b3d8ffd8f90e5fb1afcf1e9c68d13c.jpg",
+"https://i.postimg.cc/KvwhknSW/d8e87014a1af708301e48ef7232d3e61.jpg",
+"https://i.postimg.cc/RZt5cNvZ/f2d3fb612c0a4403629fbae332708c93.jpg",
+"https://i.postimg.cc/9fj31Cft/Mystic-Glow-by-Planeta-das-Gemeas.png",
+"https://i.postimg.cc/3wjscV4M/screen-1.webp"
+            ]
+          
+        }
+    ]
+}
